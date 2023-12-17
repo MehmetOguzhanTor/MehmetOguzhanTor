@@ -44,7 +44,9 @@ Actively seeking opportunities to expand knowledge in embedded systems. I bring 
 Feel free to explore my repositories for more projects and collaborations! Connect with me on [LinkedIn](linkedin.com/in/mehmet-oğuzhan-tor) for professional networking and discussions.
 
 📧 **Contact:**
+
 mehmetoguzhantor@gmail.com
+
 linkedin.com/in/mehmet-oğuzhan-tor
 
 Happy coding! 🚀
