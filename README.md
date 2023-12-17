@@ -46,7 +46,6 @@ Feel free to explore my repositories for more projects and collaborations! Conne
 📧 **Contact:**
 
 mehmetoguzhantor@gmail.com
-
 linkedin.com/in/mehmet-oğuzhan-tor
 
 Happy coding! 🚀
