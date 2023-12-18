@@ -9,7 +9,7 @@
 - **Python:** Proficient in Python programming language with expertise in data analysis, machine learning, and software development.
 - Machine Learning and Artificial Intelligence
 - MATLAB 
-- **Java:** Developed a Smart House System with a focus on software design.
+- **Java:** 
 - Simulink for realistic measurements
 - PCB circuit design using DipTrace
 
