@@ -7,9 +7,9 @@
 🛠️ **Key Skills:**
 
 - **Python:** Proficient in Python programming language with expertise in data analysis, machine learning, and software development.
+- **JavaScript** 
 - Machine Learning and Artificial Intelligence
 - MATLAB 
-- **Java** 
 - Simulink for realistic measurements
 - PCB circuit design using DipTrace
 
