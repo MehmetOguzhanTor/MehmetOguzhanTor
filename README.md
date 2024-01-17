@@ -1,6 +1,6 @@
 ## About Me
 
-🚀 **Mehmet Oğuzhan Tor | Electrical Engineer**
+🚀 **Mehmet Oğuzhan Tor | Electrical and Electronics Engineer**
 
 🎓 Bilkent University Electrical and Electronics graduate passionate about Data Science, Software Development, and Signal Processing. With a year of part-time and one year of full-time experience as a Signal Processing Engineer at Anayurt Technology, I specialized in HF/VHF communication protocols and drone signals using DSP tools.
 
@@ -20,16 +20,6 @@
 - CS: GO Round Winner Classification (PYTHON)
 - X-WORD NYTimes Crossword Clue Generator (PYTHON)
 - TUBITAK Drone Algorithm for energy-efficient missions
-
-🌐 **Tech Enthusiast:**
-
-Actively seeking opportunities to expand knowledge in embedded systems. I bring a dynamic approach to team environments, eager to contribute and learn from ongoing projects.
-
-### Technical Expertise
-
-- 🐍 **Python:** Proficient in Python programming language, with experience in data analysis, machine learning, and software development. I have worked on projects ranging from data analytics to AI-based applications.
-
-- 🧠 **Deep Learning:** Explored the realm of Deep Learning, including projects involving neural networks, image recognition, and natural language processing. I enjoy staying updated with the latest advancements in this field.
 
 ### Professional Experience
 
